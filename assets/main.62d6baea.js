@@ -1,0 +1,1 @@
+import"./style.c0ed6924.js";const o={}.VITE_APP_URL;document.addEventListener("DOMContentLoaded",()=>{localStorage.getItem("accessToken")?window.location.href=`${o}/dashboard/dashboard.html`:window.location.href=`${o}/login/login.html`});
